@@ -1,0 +1,80 @@
+* {
+    background-color: rgb(253, 255, 149);
+}
+
+#title {
+    font-size: 70px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#tagline {
+    font-size: 30px;
+    text-align: center;
+    font-style: italic;
+    font-style: oblique;
+}
+
+.content {
+    display: inline-flex;
+}
+
+.form-content {
+    font-size: 30px;
+    width: 700px;
+    display: flex;
+    flex-direction: column;
+    align-self: stretch;
+    margin-top: 100px;
+    margin-left: 200px;
+    gap: 20px;
+}
+
+#babyimg {
+    width: 800px;
+}
+
+#btn {
+    font-size: 30px;
+    padding: 10px 30px;
+    background-color: gray;
+    color: black;
+    margin-left: 275px;
+
+}
+
+.input-field {
+    margin-bottom: 50px;
+}
+
+input {
+    size: 50px;
+    width: 400px;
+    height: 60px;
+}
+
+h2 {
+    align-self: center;
+}
+
+.forgot-pass-link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.bottom-link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input[type="text"]
+{
+    font-size:24px;
+}
+input[type="password"]
+{
+    font-size:24px;
+}
